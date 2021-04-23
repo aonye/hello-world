@@ -7,7 +7,7 @@ function telephoneCheck(str) {
     {
       return false;
     }
-    //negative check, negative country code passes regex
+    //negative check, negative value for country code passes regex
     if (str[0]=='-')
     {
       return false;
