@@ -1,3 +1,3 @@
 # hello-world
 
-Humble junior programmer, trying to envelope the world around me while responding back with hello.
+Humble junior programmer, trying to envelope the new world around me while responding back with hello.
